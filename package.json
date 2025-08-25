@@ -7,9 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon src/app.js -e js,hbs",
     "start": "node src/app.js",
-  "build": "react-scripts build",
-  "eject": "react-scripts eject"
-
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
   },
   "keywords": [],
   "author": "",
@@ -20,6 +19,7 @@
     "hbs": "^4.2.0",
     "jquery": "^3.7.1",
     "mongoose": "^8.4.0",
+    "react-scripts": "^5.0.1",
     "validator": "^13.12.0"
   }
 }
